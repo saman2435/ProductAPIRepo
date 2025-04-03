@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saadi\\source\\repos\\ProductsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEDA45D-896C-4B25-9584-2FD24E2BBB5F}|ProductsApp.Tests\\ProductsApp.Tests.csproj|c:\\users\\saadi\\source\\repos\\productsapp\\productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEDA45D-896C-4B25-9584-2FD24E2BBB5F}|ProductsApp.Tests\\ProductsApp.Tests.csproj|solutionrelative:productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EF2B30-10F2-4D15-B863-98BF4A6EA347}|ProductsApp\\ProductsApp.csproj|c:\\users\\saadi\\source\\repos\\productsapp\\productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EF2B30-10F2-4D15-B863-98BF4A6EA347}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EF2B30-10F2-4D15-B863-98BF4A6EA347}|ProductsApp\\ProductsApp.csproj|c:\\users\\saadi\\source\\repos\\productsapp\\productsapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EF2B30-10F2-4D15-B863-98BF4A6EA347}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestSimpleProductController.cs",
+              "DocumentMoniker": "C:\\Users\\saadi\\source\\repos\\ProductsApp\\ProductsApp.Tests\\TestSimpleProductController.cs",
+              "RelativeDocumentMoniker": "ProductsApp.Tests\\TestSimpleProductController.cs",
+              "ToolTip": "C:\\Users\\saadi\\source\\repos\\ProductsApp\\ProductsApp.Tests\\TestSimpleProductController.cs",
+              "RelativeToolTip": "ProductsApp.Tests\\TestSimpleProductController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA6wDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:17:30.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\saadi\\source\\repos\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\saadi\\source\\repos\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:05:13.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\saadi\\source\\repos\\ProductsApp\\ProductsApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\saadi\\source\\repos\\ProductsApp\\ProductsApp\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:57:26.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
